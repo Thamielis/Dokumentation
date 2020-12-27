@@ -4,7 +4,7 @@
 
 ## Neuerungen in Python 3
 
-Das offizielle Dokument, [newpython], zeigt alle wichtigen Änderungen. Wenn Sie jedoch zu beschäftigt sind, die gesamten Änderungen zu lesen, bietet dieser Teil einen kurzen Überblick über die neuen Funktionen in Python 3.
+Das offizielle Dokument, [What's New In Python][newpython], zeigt alle wichtigen Änderungen. Wenn Sie jedoch zu beschäftigt sind, die gesamten Änderungen zu lesen, bietet dieser Teil einen kurzen Überblick über die neuen Funktionen in Python 3.
 
 [newpython]: https://docs.python.org/3/whatsnew/index.html "What's New In Python"
 
